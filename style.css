@@ -136,6 +136,8 @@ opacity: 0.2;
   font-family: 'Courier New', Courier, monospace;
   font-variant: small-caps;
   font-weight: 900;
+  border:none;
+  outline:none;
 }
 #click:hover{
   background: chartreuse;
